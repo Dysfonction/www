@@ -1,0 +1,1 @@
+"SELECT *, (SELECT COUNT(*) FROM film WHERE id_u=".$_SESSION['id_u']." AND vu=1) AS view FROM film"

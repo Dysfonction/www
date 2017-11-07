@@ -1,0 +1,101 @@
+html
+{
+	background-image: url(photo/fond.jpg);
+}
+
+body
+{
+	text-align: center;
+}
+
+label
+{
+	font-size: 20px;
+}
+
+input
+{
+	font-size: 20px;
+}
+
+img 
+{
+	height:400px;
+	width: 600px;
+}
+table 
+{ 
+	margin : 10px auto auto auto;
+	border-width:5px; 
+ 	border-style:solid;
+ 	border-collapse: collapse;
+} 
+
+td
+{
+	border-style:solid;
+	font-size: 25px;
+	border-color: grey;
+}
+
+p
+{
+	font-family: arial;
+	font-size: 20px;
+}
+
+footer
+{
+	border-top: 2px solid lime;
+	color: navy;
+	text-align: center;
+	margin-top: 50px;
+	padding-top: 30px;
+	padding-bottom: 20px;
+
+}
+
+h1
+{
+	color: navy;
+	text-align: center;
+	border-bottom: 2px solid lime;
+	height: 55px;
+	font-size: 35px;
+}
+
+h2
+{
+	color:blue;
+	text-align: center;
+	height: 40px;
+	font-size: 25px;
+
+}
+
+nav
+{
+	text-align: center;
+	font-size: 20px;
+
+}
+
+a 
+ {       
+     padding: 3 15;
+     margin: 8;
+     background: #D8D8D8;
+     color: #000000;
+     /*on encadre les liens*/
+     border: black 1px solid;
+     /*les liens n'ont plus aucun style particulier propre a elle meme (soulignement des liens par exemple) */
+     text-decoration: none;
+     /*on arrondis les cotés du haut des cadres des liens*/
+     border-radius: 5em 6em 7em / .7em 15em;
+     /*l'ecriture choisi*/
+     font-family: Maiandra GD;
+     margin-right: 20px;
+}
+
+
+

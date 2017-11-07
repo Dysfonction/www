@@ -1,0 +1,151 @@
+html{height:100%;}
+
+.centrale{
+    width:1360px;
+	margin:auto;
+}
+
+.roundlogin{
+    border-radius:10px;
+    margin-bottom:520px;
+}
+.roundsignin{
+    border-radius:10px;
+    margin-bottom:480px;
+}
+body{
+    background:#ecf0f1;
+}
+
+section{
+    border:2px solid #FFC107;
+	background:darkred;
+	text-align:left;
+    margin-left:-10px;
+    margin-right:-10px;
+	margin-top:10px;
+	margin-bottom:10px;
+	padding:10px;
+    left:0;
+    right:0;
+	position:relative;
+}
+
+h2{
+    margin-left:30px;
+    color:white;
+}
+
+p{
+    margin-left:60px;
+    margin-right:60px;
+    font-size:20;
+    font-family: 'MS Sans Serif', Geneva, sans-serif;
+}
+
+a{
+    text-decoration:none;
+    color:white;
+    font-weight:bold;
+}
+
+.titre-site{
+	float:right;
+    font-variant:small-caps;
+}
+
+.clear{
+	clear:both;
+}
+
+nav ul{
+	list-style:none;
+}
+
+nav ul li{
+	display:inline-block;
+}
+
+nav ul li a{
+	display:inline-block;
+	width:320px;
+	height:20px;
+	line-height:20px;
+	text-decoration:none;
+	text-transform:uppercase;
+	font-weight:bold;
+	background:darkred;
+	border-radius:10px;
+	border:1px solid #FFC107;
+	text-align:center;
+	color:white;
+	transition:0.3s;
+    
+}	
+
+nav ul li:hover a{
+	background:white;
+    color:#FF9800;
+	border:1px solid #c0392b;
+}
+.logo{
+    float:left;        
+}
+.article{
+    color:darkred;
+    padding-top:60px;
+    padding-bottom:30px;
+    padding-left:100px;
+}
+
+.contact {
+    width: 40px;
+    height: 40px;
+    padding:10px;
+}
+
+.bgwhitef{
+    border-radius:20px;
+    background:white;
+}
+.bgwhiteh{
+    border-radius:20px;
+    background:white;
+    padding-bottom:1px;
+}
+.foot{
+    background:white;
+    text-align: center;
+    border-radius: 10px;
+    margin:auto;
+    border:0;
+}
+.polwhite{
+    position:absolute;
+    margin-left:200px;
+    margin-top:-20px;
+    margin-right:0;
+    font-size:15;
+    font-family: 'MS Sans Serif', Geneva, sans-serif;
+    color:white;
+}
+.comm{
+    font-size:20px;
+}
+.left{
+    margin-left:30px;
+}
+.suppress{
+    font-size:13px;
+}
+footer{
+    left:0;
+    right:0;
+    bottom:0;
+}
+.titre{
+    color:white;
+    margin-left: 10px;
+    margin-top:0px;
+    margin-bottom:-20px;
+}

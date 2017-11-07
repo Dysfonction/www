@@ -1,0 +1,2 @@
+<?php $titre="Gallerie" ?>
+Photos
